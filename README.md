@@ -5,7 +5,7 @@ react로 구현된 todolist입니다.
 기능
 -header-
 현재의 날짜 요일 표시 - date생성자 사용
-남은 할일 표시-filter 이용하여 length 사용
+남은 할일 표시-filter 이용하여 length 사용하였습니다.
 
 -main-
-할일 목록 추가 -usestate 배열로 상태관리
+할일 목록 추가 -usestate 배열로 상태관리 하였습니다.
